@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/oolong-or-black/mykitchen_api/issues"
   },
-  "homepage": "https://github.com/oolong-or-black/mykitchen_api#readme"
+  "homepage": "https://github.com/oolong-or-black/mykitchen_api#readme",
+  "engines": {
+    "node": ">=18.18.0 <19.0.0"
+  }
 }
